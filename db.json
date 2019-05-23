@@ -1,0 +1,22 @@
+{
+  "bouchons": [
+    {
+      "id": 1,
+		  "replies": [
+			{
+			  "type": "text",
+			  "content": "Hello world!"
+			}
+		  ],
+		  "conversation": {
+			"language": "fr",
+			"memory": {
+			  "user": "Bob"
+			}
+		}
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
