@@ -21,8 +21,8 @@
 			"language": "fr",
 			"memory": {
 			  "dateDernierPaiement": "23/05/2019",
-			  "montantDernierPaiement": "123,67 €",
-			  "moyenDernierPaiement": "eTIP"			  
+			  "montantDernierPaiement": "123,67 euros",
+			  "moyenDernierPaiement": "eTIP" 
 			}
 		}
     }
