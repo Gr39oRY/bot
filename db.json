@@ -25,6 +25,27 @@
 			  "moyenDernierPaiement": "eTIP" 
 			}
 		}
+    },
+	{
+      "id": 3,
+		  "replies": [
+			{
+				"type": "engie-dtr-authoof",
+				"content": [
+					{
+						"nonce": "",
+						"postUrl": "",
+						"apiKey": "",
+					}
+				]
+			}
+		  ],
+		  "conversation": {
+			"language": "fr",
+			"memory": {
+			  "user": "Bob"
+			}
+		}
     }
   ],
   "profile": {
